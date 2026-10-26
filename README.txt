@@ -14,3 +14,6 @@ Publish with GitHub Pages:
 
 Current Discord invite: https://discord.gg/XX5uxcBQx
 Service price is intentionally shown as "يُحدد لاحقًا".
+
+WhatsApp contact button: https://wa.me/201030194109
+PC optimization service price: 600 EGP
